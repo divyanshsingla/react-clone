@@ -1,0 +1,59 @@
+.blogPosts{
+    font-size: 2rem;
+    margin-top: 5rem;
+    font-weight: 400;
+    color: red;
+}
+.buttonClass{
+    display: flex;
+    align-items: center;
+}
+.firstHeading{
+    font-size: x-large;
+}
+
+.linkedin{
+    font-weight: 900;
+    width: 10rem;
+    height: 4rem;
+    margin-right: 5rem;
+    border: none;
+    color: white;
+    background-color: #0077b5;
+    
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.twitter{
+    font-weight: 900;
+    width: 10rem;
+    height: 4rem;
+    margin-right: 5rem;
+    border: none;
+    color: white;
+    background-color: #00acee;
+    
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.medium{
+    font-weight: 900;
+    width: 10rem;
+    height: 4rem;
+    margin-right: 5rem;
+    border: none;
+    color: white;
+    background-color: black;
+   
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.image{
+    
+    margin-top: 2rem;
+    width: 100%;
+    height: auto;
+}
